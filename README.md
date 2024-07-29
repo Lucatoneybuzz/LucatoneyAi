@@ -1,8 +1,13 @@
-# React + Vite
+LucatoneyAi
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+LucatoneyAi is a web application that leverages the Gemini API to provide AI-powered responses to user prompts. It features an interactive UI where users can select predefined prompts or enter their own to get dynamic answers.
 
-Currently, two official plugins are available:
+Features
+Interactive Cards: Predefined prompts that populate the input field when clicked.
+Dynamic Responses: AI-generated answers displayed based on the selected or entered prompt.
+Search Box: Custom prompt entry for personalized queries.
+Loading Indicator: Visual feedback while processing requests.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Technologies Used
+React: Frontend framework.
+Gemini API: For AI-powered responses.
